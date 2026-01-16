@@ -3,7 +3,7 @@
 A responsive landing page inspired by Zerodha, built using **HTML and CSS** to practice modern layout, spacing, and responsive design principles.
 
 ## 🔗 Live Demo
-👉 https://dhrjtech.github.io/zerodha-landing-page/
+👉 https://x-dheeraj.github.io/zerodha-landing-page/
 
 ## 📸 Preview
 > Desktop and mobile responsive layout closely matching Zerodha’s original spacing and design.
